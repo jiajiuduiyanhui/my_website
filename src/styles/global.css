@@ -61,7 +61,7 @@ body{
 }
 
 .triangle-bottomright-1 {    
-    position: absolute;
+    position: fixed;
 
     background-color: #e3ddcf;
 
@@ -84,7 +84,7 @@ body{
 }
 
 .triangle-bottomright-2 {    
-    position: absolute;
+    position: fixed;
 
     background-color: #e3ddcf;
 
@@ -106,7 +106,7 @@ body{
     z-index:1;
 }
 .triangle-bottomright-3 {    
-    position: absolute;
+    position: fixed;
 
     background-color: #e3ddcf;
 
